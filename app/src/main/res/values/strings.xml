@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Nback3</string>
+    <string name="n_back_settings">N-back settings</string>
+    <string name="audio">audio</string>
+    <string name="position">position</string>
+    <string name="value_of_n">value of n:</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="seconds_between_events">seconds between events:</string>
+    <string name="play">play</string>
+    <string name="settings">settings</string>
+</resources>
